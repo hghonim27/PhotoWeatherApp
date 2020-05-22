@@ -1,0 +1,2 @@
+rootProject.name='PhotoWeather App'
+include ':app'

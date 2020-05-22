@@ -1,0 +1,13 @@
+PhotoWeather App
+
+
+A Weather application based on openweathermap-api that let the users take a photo,
+ add current weather information (e.g. place name, temperature, weather condition, …)
+ as a banner overlay on top of the photo and finally, share it.
+
+Functionalities:
+1-Capture new photo
+2-Save photos
+3-Detect current location
+4-Request openweathermap-api to get current location weather data.
+5-Share the generated image accross applications such as Facebook and Twitter
